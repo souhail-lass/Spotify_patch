@@ -15,4 +15,4 @@ curl -fsSL "https://raw.githubusercontent.com/souhail-lass/Spotify_patch/main/Sp
 # 4. Enable and Apply the logic
 # We use the full path to the spicetify binary installed by the script above
 ~/.spicetify/spicetify config extensions patch.js
-~/.spicetify/spicetify apply
+~/.spicetify/spicetify backup apply
